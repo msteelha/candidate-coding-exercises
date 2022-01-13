@@ -6,7 +6,7 @@ See the [tsdx readme](./README-tsdx.md) for details on tsdx
 
 The existing `sum` method is only for reference. Delete it from your final solution before submitting.
 
-Write a stongly typed method that sorts an input that is either an array of strings, or an array of numbers. The method must have an optional parameter that allows the user to sort by descending or ascending, and defaults to ascending.
+Write a stongly typed method that sorts an input that is either an array of strings, or an array of numbers. The method must have an optional parameter that allows the user to sort by descending or ascending and defaults to ascending.
 
 If the method is passed an array of strings, the result must be returned in ALL UPPER CASE.
 
